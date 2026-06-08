@@ -27,16 +27,24 @@ Automatically transform session memories into public-ready blog posts via GitHub
 
 ### 1. Install the Plugin
 
+**Option A: Install from the Claude Marketplace (recommended)**
+
+1. Open Claude Code
+2. Run `/marketplace`
+3. Search for **letter-for-my-future-self**
+4. Select the plugin and follow the prompts to install
+
+Or install directly via CLI:
+
+```bash
+claude plugin install --from mrwind-up-bird/letter-for-my-future-self
+```
+
+**Option B: Install from source**
+
 ```bash
 git clone https://github.com/mrwind-up-bird/letter-for-my-future-self.git
 cd letter-for-my-future-self
-chmod +x install_agents.sh
-./install_agents.sh
-```
-
-Or install as a local plugin:
-
-```bash
 claude plugin install . --scope user
 ```
 
