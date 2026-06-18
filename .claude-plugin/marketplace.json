@@ -11,8 +11,8 @@
       "name": "letter-for-my-future-self",
       "source": "./",
       "description": "Persist context between Claude sessions with structured memory checkpoints (Pain Logs, Done Lists, Next Steps). Optional blog generation via Anthropic API.",
-      "homepage": "https://github.com/mrwind-up-bird/letter-for-my-future-self",
-      "repository": "https://github.com/mrwind-up-bird/letter-for-my-future-self",
+      "homepage": "https://github.com/nyxCore-Systems/letter-for-myself",
+      "repository": "https://github.com/nyxCore-Systems/letter-for-myself",
       "license": "MIT",
       "keywords": [
         "memory",

@@ -4,12 +4,12 @@
   "author": {
     "name": "mrwind-up-bird"
   },
-  "homepage": "https://github.com/mrwind-up-bird/letter-for-my-future-self",
-  "repository": "https://github.com/mrwind-up-bird/letter-for-my-future-self",
+  "homepage": "https://github.com/nyxCore-Systems/letter-for-myself",
+  "repository": "https://github.com/nyxCore-Systems/letter-for-myself",
   "license": "MIT",
   "version": "1.1.0",
   "keywords": ["memory", "persistence", "checkpoint", "context", "session", "blog"],
   "skills": "./skills",
-  "agents": "./agents",
-  "hooks": "./hooks"
+  "agents": ["./agents/letter-for-myself.md"],
+  "hooks": "./hooks/hooks.json"
 }
