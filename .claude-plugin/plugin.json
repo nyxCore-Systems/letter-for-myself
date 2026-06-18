@@ -9,7 +9,5 @@
   "license": "MIT",
   "version": "1.1.0",
   "keywords": ["memory", "persistence", "checkpoint", "context", "session", "blog"],
-  "skills": "./skills",
-  "agents": ["./agents/letter-for-myself.md"],
-  "hooks": "./hooks/hooks.json"
+  "skills": "./skills"
 }
